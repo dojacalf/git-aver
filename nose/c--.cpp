@@ -17,7 +17,7 @@ int divide(int a,int b){
 }
 int main() {
     int a,b ;
-    cin >> a>>b;
-    cout << "la divicion entrea a y b es :"<< divide(a,b);
+    cin >> a >> b;
+    cout << "la divicion entrea a y b es :" << divide( a, b);
   return 0;
 }
